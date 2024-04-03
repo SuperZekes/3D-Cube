@@ -14,7 +14,7 @@ function draw() {
   rotateZ(frameCount * 0.01);
   rotateX(frameCount * 0.01);
   rotateY(frameCount * 0.01);
-  box(125);
+  box(120);
   pop();
 
 }
